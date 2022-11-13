@@ -12,3 +12,7 @@ You can click the Preview link to take a look at your changes.
 https://github.com/youtube-programmercpp/Y210409_ConsoleApplication1 はセキュリティ上の問題によりご利用いただけなくなりました。不手際をお詫びいたします。
 
 https://github.com/youtube-programmercpp/Y210409_ConsoleApplication1 is no longer available due to security issues. I apologize for the inconvenience.
+
+代わりとしまして以下をご用意致しました。
+As a replacement, I offer the following:
+https://github.com/youtube-programmercpp/Y210409_221113
